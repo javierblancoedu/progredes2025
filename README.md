@@ -11,3 +11,4 @@ Silvestre
  Kiara Ventura
 Vasquez Caro Juan Sebastian
  Leonardo Ribera
+Jonathan Suñavi

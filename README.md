@@ -2,4 +2,7 @@
 
  Bienvenidos
  Quintana Lautaro
-  
+ Patricio Zarate
+ Ariel Lucero
+ Luis Daniel Espinoza Gonzales
+

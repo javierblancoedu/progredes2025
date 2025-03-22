@@ -2,3 +2,5 @@
 
  Bienvenidos
  
+Pato Zarate
+Ariel Carlos Lucero

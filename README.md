@@ -7,3 +7,4 @@
  Ariel Lucero
  Luis Daniel Espinoza Gonzales
  Kiara Ventura
+Vasquez Caro Juan Sebastian

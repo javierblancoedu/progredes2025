@@ -1,6 +1,7 @@
 ﻿# progredes2025
 
  Bienvenidos
+
  
 Silvestre
  Cristhofer abuhadba
@@ -8,7 +9,9 @@ Silvestre
  Patricio Zarate
  Ariel Lucero
  Luis Daniel Espinoza Gonzales
+ Alejandro Luna Alvarez
  Kiara Ventura
 Vasquez Caro Juan Sebastian
+
  Leonardo Ribera
 Jonathan Suñavi

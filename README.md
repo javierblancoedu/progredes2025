@@ -15,4 +15,6 @@ Vasquez Caro Juan Sebastian
 Santiago Romero
 Lucas Diaz
  Leonardo Ribera
+ Octavio Fuschetto
+Jonathan Suñavi
 

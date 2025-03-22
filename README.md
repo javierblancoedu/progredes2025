@@ -8,3 +8,4 @@
  Luis Daniel Espinoza Gonzales
  Kiara Ventura
 Vasquez Caro Juan Sebastian
+ Leonardo Ribera

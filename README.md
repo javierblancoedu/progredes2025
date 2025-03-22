@@ -6,4 +6,4 @@
  Patricio Zarate
  Ariel Lucero
  Luis Daniel Espinoza Gonzales
-
+ Kiara Ventura
